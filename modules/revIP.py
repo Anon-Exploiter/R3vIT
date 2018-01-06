@@ -6,8 +6,8 @@ def reverseIP(website):
 		res_0x01 	= revHT(website)
 		res_0x02	= revYGT(website)
 
-		# print(res_0x01)
-		# print(res_0x02)
+		print(res_0x01)
+		print(res_0x02)
 
 		lis_0x01	= []
 		lis_0x02	= []

@@ -24,9 +24,9 @@ footer = """
 """.format(
         white = w,
         green = g,
-        cyan = c,
-        blue = b,
-        red = r
+        cyan  = c,
+        blue  = b,
+        red   = r
     )
 
 # print footer
